@@ -1,0 +1,24 @@
+﻿  Timer_Manager.cpp
+d:\정의훈\145\3d\framework\engine\private\timer_manager.cpp(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Timer.h': No such file or directory
+  Timer.cpp
+  Object_Manager.cpp
+d:\정의훈\145\3d\framework\engine\private\object_manager.cpp(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Layer.h': No such file or directory
+  Level_Manager.cpp
+d:\정의훈\145\3d\framework\engine\private\level_manager.cpp(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'GameInstance.h': No such file or directory
+  Level.cpp
+d:\정의훈\145\3d\framework\engine\private\level.cpp(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'GameInstance.h': No such file or directory
+  Layer.cpp
+d:\정의훈\145\3d\framework\engine\private\layer.cpp(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'GameObject.h': No such file or directory
+  GameObject.cpp
+d:\정의훈\145\3d\framework\engine\private\gameobject.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'GameInstance.h': No such file or directory
+  GameInstance.cpp
+d:\정의훈\145\3d\framework\engine\public\gameinstance.h(20): error C2061: 구문 오류: 식별자 'LPDIRECT3DDEVICE9'
+d:\정의훈\145\3d\framework\engine\private\gameinstance.cpp(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'Level_Manager.h': No such file or directory
+  Component_Manager.cpp
+d:\정의훈\145\3d\framework\engine\private\component_manager.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'Component.h': No such file or directory
+  Component.cpp
+d:\정의훈\145\3d\framework\engine\private\component.cpp(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'GameInstance.h': No such file or directory
+  BlendObject.cpp
+d:\정의훈\145\3d\framework\engine\private\blendobject.cpp(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'Transform.h': No such file or directory
+  Base.cpp
+  코드를 생성하고 있습니다...

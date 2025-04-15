@@ -1,0 +1,589 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="99.Defines">
+      <UniqueIdentifier>{fb79177f-6af2-42b8-a50b-bbc3b63e3f72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.MainApp">
+      <UniqueIdentifier>{36ddfabb-8bb7-40c9-a17f-c7b97483a7fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels">
+      <UniqueIdentifier>{f44a7a5e-dc7a-460e-9e7e-389f947c35ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels\Logo">
+      <UniqueIdentifier>{bfceb82a-607f-4756-925e-dbf78b769e31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels\GamePlay">
+      <UniqueIdentifier>{496bfdc0-36c4-4ae4-a032-6e701acb2b32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels\Loading">
+      <UniqueIdentifier>{5826f108-d734-4b34-a4f6-11a528a309a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Levels\Loading\Loader">
+      <UniqueIdentifier>{91d96f38-b5f2-4ed1-a4ee-a6224c0c3cf0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects">
+      <UniqueIdentifier>{bd09e51d-766a-4343-ad6c-b0e50d2d43cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\00.BackGround">
+      <UniqueIdentifier>{21287f1c-586b-4a97-90d2-9e630f240bae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98.Default">
+      <UniqueIdentifier>{4d9edaa0-3df0-42f3-8df9-280f1ae7af4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97.ShaderFiles">
+      <UniqueIdentifier>{16251933-5a3e-4bdb-8f5e-4d9b7af0d35d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\01.Terrain">
+      <UniqueIdentifier>{e3eb8a4e-7019-4deb-af0f-806abe1a5053}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\99.Camera">
+      <UniqueIdentifier>{aae6caeb-858d-4707-9718-e4b878cdd9de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\02.Monster">
+      <UniqueIdentifier>{0083e25f-5f57-4f81-8604-c0d79a304e39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.ContainObject">
+      <UniqueIdentifier>{7286fb4f-a0e3-42e1-8df9-a563385270a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.ContainObject\PartObject">
+      <UniqueIdentifier>{e8376873-5b8e-43dc-bbf3-cfb966feaa87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.ContainObject\Unit">
+      <UniqueIdentifier>{9d8889e6-d5e6-490a-9807-acd7eaef0b96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.ContainObject\Experiment">
+      <UniqueIdentifier>{8ef4b11f-17d7-4b3f-a906-135ee679b6ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\99.Camera\Experiment">
+      <UniqueIdentifier>{21c32328-ee3b-4133-95e5-434c3a8fa406}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="96.FontFiles">
+      <UniqueIdentifier>{6d9bd7d2-9077-4cff-a142-3767b3eb3752}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\05.Text">
+      <UniqueIdentifier>{6aeb27db-9ddc-48aa-a1b5-3be2794980e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.ContainObject\Unit\Monsters">
+      <UniqueIdentifier>{eb466bd3-428d-4f8f-b61d-45bb2e808e65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\06.Interactives">
+      <UniqueIdentifier>{f940dc54-2906-449a-8cae-346f94dc89c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.Tile">
+      <UniqueIdentifier>{65e3fa79-30b6-494c-bfbc-f9cc339cb14a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\04.Tile\Manager">
+      <UniqueIdentifier>{142f9613-3527-406d-8ebb-1c2a25e79498}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.ContainObject\PartObject\Item">
+      <UniqueIdentifier>{537df1e0-591a-4330-a3c2-3450d3336255}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.ContainObject\PartObject\Item\Weapon">
+      <UniqueIdentifier>{b487fedc-fbd4-440e-b644-338d3999f827}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\03.ContainObject\PartObject\Item\Weapon\Ammunition">
+      <UniqueIdentifier>{44bf4bc9-b4d1-459d-90c3-5e18f517974c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\07.UI">
+      <UniqueIdentifier>{7d96da8e-f2dd-4d47-b48f-60b09017181e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\08.Effect">
+      <UniqueIdentifier>{c959c178-37b3-4f18-8af3-0c72a8c4f1e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObjects\09.Particle">
+      <UniqueIdentifier>{5b4eda28-c091-4d81-a61f-4a1f280a5ac3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="95.Sound">
+      <UniqueIdentifier>{6439755b-d301-4084-82a6-31cc0e97ee29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Client.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MainApp.h">
+      <Filter>00.MainApp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Client_Defines.h">
+      <Filter>99.Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_GamePlay.h">
+      <Filter>01.Levels\GamePlay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_Logo.h">
+      <Filter>01.Levels\Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_Loading.h">
+      <Filter>01.Levels\Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Loader.h">
+      <Filter>01.Levels\Loading\Loader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\BackGround.h">
+      <Filter>02.GameObjects\00.BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Terrain.h">
+      <Filter>02.GameObjects\01.Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Monster.h">
+      <Filter>02.GameObjects\02.Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Weapon.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UnitObject.h">
+      <Filter>02.GameObjects\03.ContainObject\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Player.h">
+      <Filter>02.GameObjects\03.ContainObject\Experiment</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Sword.h">
+      <Filter>02.GameObjects\03.ContainObject\Experiment</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Body_Player.h">
+      <Filter>02.GameObjects\03.ContainObject\Experiment</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FPS_Arm.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FPSCamera.h">
+      <Filter>02.GameObjects\99.Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\FreeCamera.h">
+      <Filter>02.GameObjects\99.Camera\Experiment</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\AnimationText.h">
+      <Filter>02.GameObjects\05.Text</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\AssaultRifle.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\DefaultMutant.h">
+      <Filter>02.GameObjects\03.ContainObject\Unit\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Pipe.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Pistol.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CyborgAssassin.h">
+      <Filter>02.GameObjects\03.ContainObject\Unit\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\AlarmLight.h">
+      <Filter>02.GameObjects\06.Interactives</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Interactives.h">
+      <Filter>02.GameObjects\06.Interactives</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TileObject.h">
+      <Filter>02.GameObjects\04.Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TileManager.h">
+      <Filter>02.GameObjects\04.Tile\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\RespawnChamber.h">
+      <Filter>02.GameObjects\06.Interactives</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Elevator.h">
+      <Filter>02.GameObjects\06.Interactives</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CortexReaver.h">
+      <Filter>02.GameObjects\03.ContainObject\Unit\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Rocket.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon\Ammunition</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\FPSPlayer.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Ammunition.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon\Ammunition</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Item.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Grenade.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon\Ammunition</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CyborgEnforcer.h">
+      <Filter>02.GameObjects\03.ContainObject\Unit\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CyborgElite.h">
+      <Filter>02.GameObjects\03.ContainObject\Unit\Monsters</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\ElevatorUI.h">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Button.h">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Bullet.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon\Ammunition</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_HealthBar.h">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Thunder.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon\Ammunition</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_GunFire.h">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\RocketLauncher.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_BombBlow.h">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Fireball.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon\Ammunition</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_Bullets.h">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Inventory.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_BloodHit.h">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_Crosshair.h">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_BulletHit.h">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Particle_BossScrew.h">
+      <Filter>02.GameObjects\09.Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Particle_Snow.h">
+      <Filter>02.GameObjects\09.Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Door.h">
+      <Filter>02.GameObjects\04.Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Card.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_Blast.h">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_EnemyGunFire.h">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_Muzzle.h">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_Muzzle_Flame.h">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_Info.h">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Particle_BossScrew_Short.h">
+      <Filter>02.GameObjects\09.Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Effect_BulletCrater.h">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\SoundMgr.h">
+      <Filter>95.Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_InvenSlot.h">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_Item.h">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\AmmunitionPack.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\RocketPack.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\RifleBulletPack.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\PistolBulletPack.h">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LoadingScreen.h">
+      <Filter>01.Levels\Loading\Loader</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Client.cpp">
+      <Filter>98.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>98.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MainApp.cpp">
+      <Filter>00.MainApp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_GamePlay.cpp">
+      <Filter>01.Levels\GamePlay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_Logo.cpp">
+      <Filter>01.Levels\Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_Loading.cpp">
+      <Filter>01.Levels\Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Loader.cpp">
+      <Filter>01.Levels\Loading\Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\BackGround.cpp">
+      <Filter>02.GameObjects\00.BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Terrain.cpp">
+      <Filter>02.GameObjects\01.Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Monster.cpp">
+      <Filter>02.GameObjects\02.Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Weapon.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UnitObject.cpp">
+      <Filter>02.GameObjects\03.ContainObject\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Player.cpp">
+      <Filter>02.GameObjects\03.ContainObject\Experiment</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Sword.cpp">
+      <Filter>02.GameObjects\03.ContainObject\Experiment</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Body_Player.cpp">
+      <Filter>02.GameObjects\03.ContainObject\Experiment</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FPS_Arm.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FPSCamera.cpp">
+      <Filter>02.GameObjects\99.Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\FreeCamera.cpp">
+      <Filter>02.GameObjects\99.Camera\Experiment</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\AnimationText.cpp">
+      <Filter>02.GameObjects\05.Text</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\AssaultRifle.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\DefaultMutant.cpp">
+      <Filter>02.GameObjects\03.ContainObject\Unit\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Pipe.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Pistol.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\CyborgAssassin.cpp">
+      <Filter>02.GameObjects\03.ContainObject\Unit\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\AlarmLight.cpp">
+      <Filter>02.GameObjects\06.Interactives</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Interactives.cpp">
+      <Filter>02.GameObjects\06.Interactives</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\TileObject.cpp">
+      <Filter>02.GameObjects\04.Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\TileManager.cpp">
+      <Filter>02.GameObjects\04.Tile\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\RespawnChamber.cpp">
+      <Filter>02.GameObjects\06.Interactives</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Elevator.cpp">
+      <Filter>02.GameObjects\06.Interactives</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\CortexReaver.cpp">
+      <Filter>02.GameObjects\03.ContainObject\Unit\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Rocket.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon\Ammunition</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\FPSPlayer.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Ammunition.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon\Ammunition</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Item.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Grenade.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon\Ammunition</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\CyborgEnforcer.cpp">
+      <Filter>02.GameObjects\03.ContainObject\Unit\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\CyborgElite.cpp">
+      <Filter>02.GameObjects\03.ContainObject\Unit\Monsters</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\ElevatorUI.cpp">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Button.cpp">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Bullet.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon\Ammunition</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_HealthBar.cpp">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Thunder.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon\Ammunition</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_GunFire.cpp">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\RocketLauncher.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_BombBlow.cpp">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Fireball.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item\Weapon\Ammunition</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_Bullets.cpp">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Inventory.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_BloodHit.cpp">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_Crosshair.cpp">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_BulletHit.cpp">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Particle_BossScrew.cpp">
+      <Filter>02.GameObjects\09.Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Particle_Snow.cpp">
+      <Filter>02.GameObjects\09.Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Door.cpp">
+      <Filter>02.GameObjects\04.Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Card.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_Blast.cpp">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\Effect_EnemyGunFire.cpp">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_Muzzle.cpp">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_Muzzle_Flame.cpp">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_Info.cpp">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Particle_BossScrew_Short.cpp">
+      <Filter>02.GameObjects\09.Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Effect_BulletCrater.cpp">
+      <Filter>02.GameObjects\08.Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\SoundMgr.cpp">
+      <Filter>95.Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_InvenSlot.cpp">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_Item.cpp">
+      <Filter>02.GameObjects\07.UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\AmmunitionPack.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\RocketPack.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\RifleBulletPack.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\PistolBulletPack.cpp">
+      <Filter>02.GameObjects\03.ContainObject\PartObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\LoadingScreen.cpp">
+      <Filter>01.Levels\Loading\Loader</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Client.ico">
+      <Filter>98.Default</Filter>
+    </Image>
+    <Image Include="small.ico">
+      <Filter>98.Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client.rc">
+      <Filter>98.Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt">
+      <Filter>98.Default</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxPosTex.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxRectInstance.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxPointInstance.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxNorTex.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxModel.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxAnimModel.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxPosNorTex.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxMeshInstance.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Bin\FontFiles\myfile.spritefont">
+      <Filter>96.FontFiles</Filter>
+    </None>
+  </ItemGroup>
+</Project>

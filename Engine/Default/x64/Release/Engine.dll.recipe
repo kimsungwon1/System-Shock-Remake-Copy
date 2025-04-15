@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Bin\Engine.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Bin\Shader_Cell.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Bin\Shader_Deferred.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

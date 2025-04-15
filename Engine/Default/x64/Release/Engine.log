@@ -1,0 +1,144 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Bin\Shader_Cell.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Bin\Shader_Deferred.cso
+  Animation.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Public\Animation.h(17,31): warning C4227: 오래된 구문을 사용했습니다. 참조의 한정자가 무시됩니다.
+  Base.cpp
+  BlendObject.cpp
+  Bone.cpp
+  Bounding.cpp
+  Bounding_AABB.cpp
+  Bounding_OBB.cpp
+  Bounding_Sphere.cpp
+  Camera.cpp
+  Cell.cpp
+  Channel.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Public\Animation.h(17,31): warning C4227: 오래된 구문을 사용했습니다. 참조의 한정자가 무시됩니다.
+  Collider.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Collider.cpp(5,36): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Collider_Manager.cpp
+  Component.cpp
+  Component_Manager.cpp
+  ContainObject.cpp
+  CustomFont.cpp
+  VIBuffer_Point_InvenSlot.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\VIBuffer_Point_InvenSlot.cpp(142,20): warning C4267: '=': 'size_t'에서 'Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DebugDraw.cpp
+  Engine_Struct.cpp
+  컴파일하고 있습니다...
+  Font_Manager.cpp
+  Frustum.cpp
+  GameInstance.cpp
+  GameObject.cpp
+  Graphic_Device.cpp
+  Input_Device.cpp
+  Layer.cpp
+  Level.cpp
+  Level_Manager.cpp
+  Light.cpp
+  Light_Manager.cpp
+  Mesh.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Mesh.cpp(4,1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Mesh.cpp(5,1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Mesh.cpp(159,66): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Mesh.cpp(165,66): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Mesh.cpp(171,66): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Mesh.cpp(177,66): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Mesh.cpp(241,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Mesh.cpp(495,65): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Mesh.cpp(501,65): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Mesh.cpp(507,65): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Mesh.cpp(513,65): warning C4267: '=': 'size_t'에서 'uint32_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Model.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Public\Animation.h(17,31): warning C4227: 오래된 구문을 사용했습니다. 참조의 한정자가 무시됩니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Model.cpp(8,1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Model.cpp(9,1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Model.cpp(375,19): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Model.cpp(394,17): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Model.cpp(397,19): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Model.cpp(461,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Model.cpp(525,20): warning C4267: '초기화 중': 'size_t'에서 'Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Model.cpp(591,56): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Model.cpp(598,23): warning C4267: '=': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\private\Model.cpp(599,21): warning C4267: '=': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Navigation.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Navigation.cpp(100,82): warning C4267: '인수': 'size_t'에서 'Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object_Manager.cpp
+  Octree.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Octree.cpp(6,1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Octree.cpp(7,1): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  PartObject.cpp
+  Physics.cpp
+  PipeLine.cpp
+  Pixel_Picking.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Pixel_Picking.cpp(26,53): warning C4244: '=': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Pixel_Picking.cpp(27,55): warning C4244: '=': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Pixel_Picking.cpp(62,16): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Pixel_Picking.cpp(65,16): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  컴파일하고 있습니다...
+  Raycaster.cpp
+  Renderer.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Renderer.cpp(25,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Renderer.cpp(27,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Renderer.cpp(29,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Renderer.cpp(31,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Renderer.cpp(33,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Renderer.cpp(36,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Renderer.cpp(39,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Renderer.cpp(42,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\Renderer.cpp(44,6): warning C4244: '인수': 'FLOAT'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  RenderTarget.cpp
+  Shader.cpp
+  Target_Manager.cpp
+  TextObject.cpp
+  Texture.cpp
+  Timer.cpp
+  Timer_Manager.cpp
+  Transform.cpp
+  UIObject.cpp
+  VIBuffer.cpp
+  VIBuffer_Cell.cpp
+  VIBuffer_Cube.cpp
+  VIBuffer_Instancing.cpp
+  VIBuffer_Mesh_Instance.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Public\Animation.h(17,31): warning C4227: 오래된 구문을 사용했습니다. 참조의 한정자가 무시됩니다.
+  VIBuffer_Point_Instance.cpp
+  VIBuffer_Point_Screw.cpp
+  VIBuffer_Point_Screw_Short.cpp
+  VIBuffer_Rect.cpp
+  컴파일하고 있습니다...
+  VIBuffer_Rect_Instance.cpp
+  VIBuffer_Terrain.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\VIBuffer_Terrain.cpp(56,19): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\VIBuffer_Terrain.cpp(58,109): warning C4244: '인수': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\VIBuffer_Terrain.cpp(58,67): warning C4244: '인수': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\VIBuffer_Terrain.cpp(76,19): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\VIBuffer_Terrain.cpp(180,19): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\VIBuffer_Terrain.cpp(182,76): warning C4244: '인수': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\VIBuffer_Terrain.cpp(182,67): warning C4244: '인수': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\VIBuffer_Terrain.cpp(200,19): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Private\VIBuffer_Terrain.cpp(291,18): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     ..\Bin\Engine.lib 라이브러리 및 ..\Bin\Engine.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 3961 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+Effects11.lib(EffectAPI.obj) : warning LNK4099: '' PDB를 'Effects11.lib(EffectAPI.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11.lib(EffectNonRuntime.obj) : warning LNK4099: '' PDB를 'Effects11.lib(EffectNonRuntime.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11.lib(EffectLoad.obj) : warning LNK4099: '' PDB를 'Effects11.lib(EffectLoad.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11.lib(d3dxGlobal.obj) : warning LNK4099: '' PDB를 'Effects11.lib(d3dxGlobal.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11.lib(EffectReflection.obj) : warning LNK4099: '' PDB를 'Effects11.lib(EffectReflection.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+Effects11.lib(EffectRuntime.obj) : warning LNK4099: '' PDB를 'Effects11.lib(EffectRuntime.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(SpriteBatch.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(SpriteBatch.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(SpriteFont.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(SpriteFont.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(PrimitiveBatch.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(PrimitiveBatch.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(WICTextureLoader.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(WICTextureLoader.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(DDSTextureLoader.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(DDSTextureLoader.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(CommonStates.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(CommonStates.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(VertexTypes.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(VertexTypes.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(pch.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(pch.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+DirectXTK.lib(BinaryReader.obj) : warning LNK4099: '' PDB를 'DirectXTK.lib(BinaryReader.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  Engine.vcxproj -> D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\Engine\Bin\Engine.dll

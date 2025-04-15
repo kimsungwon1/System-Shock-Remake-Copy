@@ -1,0 +1,65 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\Bin\Shader_Cell.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\Bin\Shader_VtxAnimModel.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\Bin\Shader_VtxModel.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\Bin\Shader_VtxNorTex.cso
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\Bin\Shader_VtxPosTex.cso
+  Card.cpp
+  Door.cpp
+  FreeCamera.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\FreeCamera.cpp(49,38): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\FreeCamera.cpp(49,38): warning C4309: '인수': 상수 값이 잘립니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\FreeCamera.cpp(51,38): warning C4305: '인수': 'unsigned int'에서 'Engine::_ubyte'(으)로 잘립니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\FreeCamera.cpp(51,38): warning C4309: '인수': 상수 값이 잘립니다.
+  ImguiDesign.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\ImguiDesign.cpp(450,67): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\ImguiDesign.cpp(472,45): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  LightObject.cpp
+  MainApp.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MainApp.cpp(145,20): error C2039: 'SetDebugRenderOnOff': 'Engine::CGameInstance'의 멤버가 아닙니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MainApp.cpp(751,35): warning C4267: '+=': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MainApp.cpp(754,35): warning C4267: '+=': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MainApp.cpp(757,35): warning C4267: '+=': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MainApp.cpp(760,35): warning C4267: '+=': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MainApp.cpp(763,35): warning C4267: '+=': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MainApp.cpp(766,36): warning C4267: '+=': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MapTool.cpp
+  MouseHandle.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MouseHandle.cpp(170,38): warning C4244: '=': 'float'에서 'Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MouseHandle.cpp(171,38): warning C4244: '=': 'float'에서 'Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MouseHandle.cpp(172,38): warning C4244: '=': 'float'에서 'Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MyCell_Full.cpp
+  MyCell_Line.cpp
+  MyCell_Part.cpp
+  MyNavigation.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MyNavigation.cpp(57,96): warning C4267: '인수': 'size_t'에서 'Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MyNavigation.cpp(114,93): warning C4267: '인수': 'size_t'에서 'Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MyNavigation.cpp(124,89): warning C4267: '인수': 'size_t'에서 'Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MyNavigation.cpp(234,20): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\MyNavigation.cpp(258,97): warning C4267: '인수': 'size_t'에서 'Engine::_int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MyOneVertex.cpp
+  컴파일하고 있습니다...
+  Terrain.cpp
+  Tile.cpp
+  ToolObject.cpp
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\EngineSDK\Inc\Animation.h(17,31): warning C4227: 오래된 구문을 사용했습니다. 참조의 한정자가 무시됩니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\ToolObject.cpp(135,80): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\ToolObject.cpp(138,13): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\ToolObject.cpp(154,13): warning C4267: '인수': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\repos\2024 Jusin\6개월\13일차_모델2 (7)\MapTool\ToolObject.cpp(172,27): warning C4267: '초기화 중': 'size_t'에서 'Engine::_uint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
